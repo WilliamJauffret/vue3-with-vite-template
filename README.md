@@ -1,6 +1,10 @@
-# Fast and easy Vue 3 with vite project template
+# Fast and easy Vue 3 with vite project template using TypeScript
 
 This template should help get you started developing with Vue 3 in Vite with vue-router.
+
+This is a little sample of a vue3 with vite project. This sample also include a router sample. 
+
+It use the grid css template. 
 
 ## Customize configuration
 
